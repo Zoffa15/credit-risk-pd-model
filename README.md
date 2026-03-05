@@ -98,6 +98,8 @@ Example output:
 
 ## Project Structure
 
+
+```
 credit-risk-pd-model/
 │
 ├── README.md
@@ -128,6 +130,8 @@ credit-risk-pd-model/
 │
 └── docs/
     └── executive_summary.md
+
+```
 
 ---
 
