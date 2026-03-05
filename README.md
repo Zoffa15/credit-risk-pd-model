@@ -122,11 +122,24 @@ Possible extensions include:
 - Model monitoring framework
 
 ---
+## License
 
+This project is licensed under the MIT License.
+
+You are free to:
+
+- Use
+- Modify
+- Distribute
+- Apply commercially
+
+Attribution is required.
+
+---
 ## Author
 
 Zofia Olszewska
 
-Demonstrates end-to-end development of a Probability of Default model for unsecured lending.
+## Contact
 
-Copyright 2026 Zofia Olszewska.
+For questions, collaboration, or discussion: sofie.olszewska@gmail.com
