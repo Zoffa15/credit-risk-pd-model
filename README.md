@@ -100,14 +100,34 @@ Example output:
 
 credit-risk-pd-model/
 │
-├── data/
-├── notebooks/
-│ └── pd_modeling.ipynb
-├── outputs/
-│ └── pd_predictions.csv
 ├── README.md
 ├── requirements.txt
-
+├── .gitignore
+│
+├── data/
+│   └── data_description.txt
+│
+├── notebooks/
+│   └── pd_modeling.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── train_models.py
+│   ├── validation.py
+│   └── evaluation.py
+│
+├── outputs/
+│   ├── pd_predictions.csv
+│   └── model_metrics.txt
+│
+├── images/
+│   ├── roc_curve.png
+│   ├── decile_analysis.png
+│   └── feature_importance.png
+│
+└── docs/
+    └── executive_summary.md
 
 ---
 
